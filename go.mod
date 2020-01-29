@@ -1,4 +1,4 @@
-module github.com/nats-io/jetstream
+module github.com/swinSpo/jetstream-client
 
 go 1.12
 
